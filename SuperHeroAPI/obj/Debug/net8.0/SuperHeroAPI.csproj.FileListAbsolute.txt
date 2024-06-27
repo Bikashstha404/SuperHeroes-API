@@ -30,3 +30,36 @@ C:\Users\HP\source\repos\SuperHero\SuperHeroAPI\obj\Debug\net8.0\refint\SuperHer
 C:\Users\HP\source\repos\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.pdb
 C:\Users\HP\source\repos\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.genruntimeconfig.cache
 C:\Users\HP\source\repos\SuperHero\SuperHeroAPI\obj\Debug\net8.0\ref\SuperHeroAPI.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\appsettings.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\SuperHeroAPI.exe
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\SuperHeroAPI.deps.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\SuperHeroAPI.runtimeconfig.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\SuperHeroAPI.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\SuperHeroAPI.pdb
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.csproj.AssemblyReference.cache
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.AssemblyInfoInputs.cache
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.AssemblyInfo.cs
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.csproj.CoreCompileInputs.cache
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.sourcelink.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets\msbuild.SuperHeroAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.SuperHeroAPI.props
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SuperHeroAPI.props
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SuperHeroAPI.props
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\scopedcss\bundle\SuperHeroAPI.styles.css
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHer.391A7880.Up2Date
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\refint\SuperHeroAPI.dll
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.pdb
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\SuperHeroAPI.genruntimeconfig.cache
+D:\My Own Projects\8. SuperHero API\SuperHero\SuperHeroAPI\obj\Debug\net8.0\ref\SuperHeroAPI.dll
